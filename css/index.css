@@ -115,6 +115,7 @@ input {
 .fas {
     color: #3268ff;
     opacity: 0.9;
+    cursor: pointer;
 }
 
 ::-webkit-input-placeholder { /* Edge */
